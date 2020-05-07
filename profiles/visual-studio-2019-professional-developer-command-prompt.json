@@ -1,0 +1,7 @@
+{
+  "guid": "{26b30263-74e9-4146-b80e-11632e86d42c}",
+  "name": "Developer Command Prompt for VS2019",
+  "commandline": "cmd.exe /k \"%PROGRAMFILES(X86)%//Microsoft Visual Studio//2019//Professional//Common7//Tools//VsDevCmd.bat\"",
+  "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
+  "hidden": false
+}

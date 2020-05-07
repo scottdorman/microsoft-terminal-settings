@@ -1,0 +1,7 @@
+{
+   "guid": "{36DA51E5-4263-4A2D-9B40-46C1A4CE1CF3}",
+   "name": "Developer PowerShell for VS 2019",
+   "commandline": "powershell.exe -noe -c \"&{Import-Module \"\"\"%PROGRAMFILES(X86)%//Microsoft Visual Studio//2019//Community//Common7//Tools//Microsoft.VisualStudio.DevShell.dll\"\"\"; Enter-VsDevShell dfb79550}\"",
+   "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+   "hidden": false
+ }

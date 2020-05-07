@@ -1,0 +1,21 @@
+{
+  "name": "git-bash",
+  "black": "#0c0c0c",
+  "red": "#bf0000",
+  "green": "#00a400",
+  "yellow": "#bfbf00",
+  "blue": "#6060ff",
+  "purple": "#bf00bf",
+  "cyan": "#3a96dd",
+  "white": "#ffffff",
+  "brightblack": "#767676",
+  "brightred": "#e74856",
+  "brightgreen": "#16c60c",
+  "brightyellow": "#f9f1a5",
+  "brightblue": "#3b78ff",
+  "brightpurple": "#b4009e",
+  "brightcyan": "#61d6d6",
+  "brightwhite": "#f2f2f2",
+  "background": "#000000",
+  "foreground": "#bfbfbf"
+}

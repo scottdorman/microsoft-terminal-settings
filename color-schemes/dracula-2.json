@@ -1,0 +1,21 @@
+{
+  "name": "dracula-2",
+  "black": "#21222c",
+  "red": "#ff5555",
+  "green": "#50fa7b",
+  "yellow": "#f1fa8c",
+  "blue": "#bd93f9",
+  "purple": "#ff79c6",
+  "cyan": "#8be9fd",
+  "white": "#f8f8f2",
+  "brightblack": "#6272a4",
+  "brightred": "#ff6e6e",
+  "brightgreen": "#69ff94",
+  "brightyellow": "#ffffa5",
+  "brightblue": "#d6acff",
+  "brightpurple": "#ff92df",
+  "brightcyan": "#a4ffff",
+  "brightwhite": "#ffffff",
+  "background": "#282a36",
+  "foreground": "#f8f8f2"
+}

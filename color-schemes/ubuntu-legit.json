@@ -1,0 +1,21 @@
+{
+  "name": "ubuntu-legit",
+  "black": "#4e9a06",
+  "red": "#cc0000",
+  "green": "#300a24",
+  "yellow": "#c4a000",
+  "blue": "#3465a4",
+  "purple": "#75507b",
+  "cyan": "#06989a",
+  "white": "#d3d7cf",
+  "brightblack": "#555753",
+  "brightred": "#ef2929",
+  "brightgreen": "#8ae234",
+  "brightyellow": "#fce94f",
+  "brightblue": "#729fcf",
+  "brightpurple": "#ad7fa8",
+  "brightcyan": "#34e2e2",
+  "brightwhite": "#eeeeee",
+  "background": "#202020",
+  "foreground": "#eeeeee"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "campbell",
+  "black": "#0c0c0c",
+  "red": "#c50f1f",
+  "green": "#13a10e",
+  "yellow": "#c19c00",
+  "blue": "#0037da",
+  "purple": "#881798",
+  "cyan": "#3a96dd",
+  "white": "#cccccc",
+  "brightblack": "#767676",
+  "brightred": "#e74856",
+  "brightgreen": "#16c60c",
+  "brightyellow": "#f9f1a5",
+  "brightblue": "#3b78ff",
+  "brightpurple": "#b4009e",
+  "brightcyan": "#61d6d6",
+  "brightwhite": "#f2f2f2",
+  "background": "#0c0c0c",
+  "foreground": "#f2f2f2"
+}
